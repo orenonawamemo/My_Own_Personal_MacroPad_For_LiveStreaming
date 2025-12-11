@@ -4,19 +4,19 @@
 ![Front](Images/thefront.png)
 
 ### Back View
-![Back](images/the%20back.png)
+![Back](Images/the%20back.png)
 
 ### Top View 
-![Top](images/the%20top.png)
+![Top](Images/the%20top.png)
 
  ### Front View (Back Side)
-![Memo's Macropad](images/memo's%20macropad.png)
+![Memo's Macropad](Images/memo's%20macropad.png)
 
 ### PCB
-![PCB](images/PCB.png)
+![PCB](Images/PCB.png)
 
 ### Schematic
-![Schematic](images/SCHEMATIC.png)
+![Schematic](Images/SCHEMATIC.png)
 
 
 
@@ -49,5 +49,6 @@ This is a custom MacroPad designed for live streaming.
 - 4 Push Buttons
 - 2 LEDs
 - Resistors, wires, etc.
+
 
 
