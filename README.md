@@ -1,7 +1,7 @@
 ## Photos
 
 ### Front View
-![Front](images/thefront.png)
+![Front](Images/thefront.png)
 
 ### Back View
 ![Back](images/the%20back.png)
@@ -49,4 +49,5 @@ This is a custom MacroPad designed for live streaming.
 - 4 Push Buttons
 - 2 LEDs
 - Resistors, wires, etc.
+
 
